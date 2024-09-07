@@ -14,9 +14,8 @@ import GoogleMobileAds
 
 class InterstitialViewModel: NSObject, GADFullScreenContentDelegate {
   private var interstitialAd: GADInterstitialAd?
-    private var adUnit = "ca-app-pub-2186493974724197/4783891223"
+    private var adUnit = "ca-app-pub-3940256099942544/4411468910"
     //Demo - ca-app-pub-3940256099942544/4411468910
-    //Prod - ca-app-pub-2186493974724197/4783891223
   func loadAd() async {
     do {
       interstitialAd = try await GADInterstitialAd.load(
