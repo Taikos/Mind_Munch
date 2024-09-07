@@ -1,0 +1,115 @@
+{
+  "identifier" : "96874C32",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6670690191",
+      "localizations" : [
+        {
+          "description" : "Get an extra life for your brain training!",
+          "displayName" : "1 Mind Life Unit",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gto.Mind_Munch.life",
+      "referenceName" : "Mind Munch Life",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6670690193",
+      "localizations" : [
+        {
+          "description" : "Get 10 extra lives for your brain training!",
+          "displayName" : "Mind Lives (x10)",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gto.Mind_Munch.life10",
+      "referenceName" : "Mind Munch Life x10",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "6670690155",
+      "localizations" : [
+        {
+          "description" : "Get 5 extra lives for your brain training!",
+          "displayName" : "Mind Lives (x5)",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.gto.Mind_Munch.life5",
+      "referenceName" : "Mind Munch Life x5",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6670610058",
+    "_developerTeamID" : "C5T9JF3LX7",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 747351490.785344,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
